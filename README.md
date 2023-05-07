@@ -1,8 +1,4 @@
 # Hardware-Implementation-of-an-Image-Decompressor
-In this project, students will gain experience in digital system design by implementing the custom
-McMaster Image Compression revision 16 (.mic16) image compression specification in hardware.
-Compressed data for a 320 x 240 pixel image will be delivered to the Altera DE2 board via the universal
-asynchronous receiver/transmitter (UART) interface from a personal computer (PC) and stored in the
-external static random access memory (SRAM). The image decoding circuitry will read the compressed
-data, recover the image using a custom digital circuit designed by you and store it back to the SRAM,
-from where the video graphics array (VGA) controller will read it and display it to the monitor.
+Individually designed and built an embedded spatial measurement system that gathers data from any given space using a time-of-flight (ToF) sensor and a stepper motor to display a 3D image of the space
+Provides a 360-degree measurement of distance within a single vertical geometric plane
+The data is then analyzed using a PC application, Python and graphically mapped and displayed
